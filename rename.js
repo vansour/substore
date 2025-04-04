@@ -1,11 +1,12 @@
 function operator(pro) {
   const countryCodes = {
     "美国": "US",
+    "英国": "UK",
     "香港": "HK",
     "台湾": "TW",
     "日本": "JP",
+    "韩国": "KR",
     "新加坡": "SG",
-    "加拿大": "CA",
   };
 
   // 遍历每个代理对象
